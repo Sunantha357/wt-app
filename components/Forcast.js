@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, View } from 'react-native';
-export default class Forecast extends React.Component {
+export default class Forcast extends React.Component {
     render() {
     return (
     <View>
